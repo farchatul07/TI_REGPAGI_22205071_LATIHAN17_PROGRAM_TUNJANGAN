@@ -7,9 +7,11 @@ import java.util.Scanner;
 /**
  *
  * @author user
- Nama: Farchatul Hudayah
- Nim: 22205071
- Prodi: Teknik Informatika
+ Nama              : Farchatul Hudayah
+ Nim               : 22205071
+ Prodi             : Teknik Informatika
+ Kelas             : PBO1
+ Deskripsi Program : Program ini berisi program tunjangan yang menampilkan Hasil perhitungan gaji
  */
 public class Latihan17Program_tunjangan {
 
